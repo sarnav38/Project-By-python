@@ -1,0 +1,19 @@
+# we have download ffmpeg == it is a command line tool to convet crop..audio and video..after download extract it and copy all file and paste in ffpmeg folder created by u in c. program files (:/c/program files/ffpmeg).. now open bin folder of it and copy its path and paste in user environment variable path mai...ffmpeg -i input.ex output.ext... to convert audio video syntax... for crop rotate and other things  ...ffmpeg -i input.mp4 -filter:v "crop=w=480:h=240:x=100:y=100" output.mp4
+now install pyaudio by : 
+    pip install pipwin
+    pipwin install pyaudio
+With PyAudio, you can easily use Python to play and record audio on a variety of platforms
+
+install pydub : pip install dub
+Pydub is a library to manipulate audio data with a simple high level interface.
+
+import gTTS
+pip install gTTS
+gTTS (Google Text-to-Speech), a Python library and CLI tool to interface with Google Translate's text-to-speech API. Write spoken mp3 data to a file, a file-like object (bytestring) for further audio manipulation, or stdout. Or simply pre-generate Google Translate TTS request URLs to feed to an external program.
+from gtts import gTTS
+
+tts = gTTS('hello gandu how are you')
+tts.save('hello.mp3')
+ its save this text in mp3 and when u play file it say what i have written
+
+ pyttsx3 only speek when u run it it not store in any file and it work offline

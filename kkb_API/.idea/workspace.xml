@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="262d33d1-382c-4fd2-a81b-a05ac15425c4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hurWqAuol04eoEKqdeVE3TjoVJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="F:/Ml ageron handson" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Web development\project coding by python\kkb_API\venv\Lib\site-packages" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="262d33d1-382c-4fd2-a81b-a05ac15425c4" name="Default Changelist" comment="" />
+      <created>1600871852566</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600871852566</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="434" y="170" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601039849063">
+      <screen x="0" y="0" width="1352" height="720" />
+    </state>
+    <state x="434" y="170" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1352.720@0.0.1352.720" timestamp="1601039849063" />
+    <state x="456" y="118" key="FileChooserDialogImpl" timestamp="1609301023303">
+      <screen x="0" y="0" width="1352" height="720" />
+    </state>
+    <state x="456" y="118" key="FileChooserDialogImpl/0.0.1352.720@0.0.1352.720" timestamp="1609301023303" />
+  </component>
+</project>

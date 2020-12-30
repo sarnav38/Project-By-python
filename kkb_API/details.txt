@@ -1,0 +1,17 @@
+django 
+Username: kkb
+Password: 12345
+django
+djangorestframework
+
+ root@207.154.208.174(username@ip_address)
+9958931808@Adusharma (password for root user)
+in remote django superuser 
+username : kkb
+pas : kkb@12345
+
+
+STATICFILES_DIRS = [
+    os.path.join(BASE_DIR, "/static/"),
+]
+

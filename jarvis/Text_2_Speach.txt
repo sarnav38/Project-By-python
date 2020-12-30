@@ -1,0 +1,29 @@
+import pyttsx3   // text to speach library of python
+engine = pyttsx3.init()
+engine.say("I will speak this text")
+engine.runAndWait()
+
+To get voices from computer
+engine = pyttsx3.init("sapi5")  # object creation
+voices = engine.getProperty('voices')       #getting details of current voice
+engine.setProperty('voice', voices[0].id)  #changing index, changes voices. 0 for male
+engine.setProperty('voice', voices[1].id)   #changing index, changes voices. 1 for female
+print(voices)   // 2 voices hoti hai hmari window mai
+print(voices[0].id)
+
+Saving text to mp3 file
+import pyttsx3
+engine = pyttsx3.init()
+engine.save_to_file('AAJ tune chand dikhau' , 'test.mp3')
+engine.runAndWait()
+
+# change the rate ...matlab bolne ki Speech
+rate = engine.getProperty('rate')
+engine.setProperty('rate', rate-20)
+
+
+Microsoft Speech API (SAPI5) is the technology for voice recognition and synthesis provided by Microsoft.
+import speech_recognition 
+pip install pipwin
+pipwin install pyaudio
+import wikipedia
